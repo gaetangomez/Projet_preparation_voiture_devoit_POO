@@ -39,7 +39,7 @@ namespace Projet_preparation_voiture
                 Console.WriteLine($"Modèle: {deserialized.Modèle[i]} \n");
                 Console.WriteLine($"Motorisation: {deserialized.Motorisation[i]} \n");
                 Console.WriteLine($"Couleur: {deserialized.Couleur[i]} \n");
-                Console.WriteLine($"KitCustomisation: {deserialized.Motorisation[i]} \n");
+                Console.WriteLine($"KitCustomisation: {deserialized.KitCustomisation[i]} \n");
             }
             Console.WriteLine("------------------------------------------- \n");
             Console.WriteLine("Appuiez sur 2 pour puis ENTRER pour revenir à la configuration");

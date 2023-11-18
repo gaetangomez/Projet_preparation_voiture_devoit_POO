@@ -4,27 +4,31 @@
     "alex",
     "gaetan",
     "Armin",
-    "logan"
+    "logan",
+    "gaetan"
   ],
   "Véhicule": [
     "Voiture",
     "Moto",
     "Voiture",
     "Voiture",
-    "Voiture"
+    "Voiture",
+    "Moto"
   ],
   "Modèle": [
     "Dodge",
     "KTM",
     "Mercedes",
     "Audi",
-    "Bmw"
+    "Bmw",
+    "KTM"
   ],
   "Motorisation": [
     "Mannuelle",
     "Auto",
     "Auto",
     "defaut",
+    "Auto",
     "Auto"
   ],
   "Couleur": [
@@ -32,13 +36,15 @@
     "gris",
     "Noir",
     "defaut",
-    "Noir"
+    "Noir",
+    "gris"
   ],
   "KitCustomisation": [
     "Sport",
     "Led",
     "Rallie",
     "Ville",
-    "Sport"
+    "Sport",
+    "laser"
   ]
 }
